@@ -13,7 +13,8 @@ _1. 🔹 Bases de Python
 4. 🔹 Machine Learning (Scikit-learn)  
 5. 🔹 Projets pratiques_ 
 
-**## 📂 ORGANISATION** 
+**## 📂 ORGANISATION**
+
 Chaque dossier correspond à une étape de mon apprentissage, avec des exercices et des projets.  
 
 **## 📈 Suivez mon évolution**  
