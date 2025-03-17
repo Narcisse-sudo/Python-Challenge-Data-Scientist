@@ -3,6 +3,7 @@
 Ce repo contient mon challenge d’apprentissage Python, de zéro à la Data Science 🚀
 
 **# 🚀 CHALLENGE D'APPRENTISSAGE PYTHON - DE ZERO A LA DATA SCIENCE**
+
 Bienvenue dans mon challenge ! Ici, je partage ma progression en Python, de la programmation de base à la Data Science.  
 
 **## 📌 PLAN DU CHALLENGE**  
