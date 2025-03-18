@@ -4,11 +4,11 @@ Bienvenue dans mon challenge d'apprentissage Python ! Mon objectif est de maîtr
 
 ## 📌 PLAN DU CHALLENGE
 
-_1. 🔹 [Bases de Python](01_Bases_Python/README.md)
-2. 🔹 [Manipulation de données (Pandas, NumPy)](02_Pandas_Numpy/README.md)
-3. 🔹 [Visualisation des données (Matplotlib, Seaborn)](03_Visualisation/README.md)
-4. 🔹 [Machine Learning (Scikit-learn)](04_Machine_Learning/README.md)
-5. 🔹 [Projets pratiques](05_Projets/)_
+_1. 🔹 [Bases de Python](01_Bases_Python/README.md)_
+_2. 🔹 [Manipulation de données (Pandas, NumPy)](02_Pandas_Numpy/README.md)_
+_3. 🔹 [Visualisation des données (Matplotlib, Seaborn)](03_Visualisation/README.md)_
+_4. 🔹 [Machine Learning (Scikit-learn)](04_Machine_Learning/README.md)_
+_5. 🔹 [Projets pratiques](05_Projets/)_
 
 Chaque section contient des **explications + du code + des exercices** pour apprendre et pratiquer. 🚀
 
