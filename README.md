@@ -5,11 +5,11 @@ Bienvenue dans mon challenge d'apprentissage Python ! Mon objectif est de maîtr
 
 ##  PLAN DU CHALLENGE
 
-_1. 🔹 Bases de Python ([01_Bases_Python](01_Bases_Python))   
-2. 🔹 Manipulation de données (Pandas, NumPy) ([02_Pandas_Numpy](02_Pandas_Numpy)   
-3. 🔹 Visualisation des données (Matplotlib, Seaborn) ([03_Visualisation](03_Visualisation))   
-4. 🔹 Machine Learning (Scikit-learn) ([04_Machine_Learning](04_Machine_Learning))    
-5. 🔹 Projets pratiques ([05_Projets](05_Projets))_
+_1. 🔹 Bases de Python ([01_Bases_Python](Python-Challenge-Data-Scientis/01_Bases_Python))   
+2. 🔹 Manipulation de données (Pandas, NumPy) ([02_Pandas_Numpy](Python-Challenge-Data-Scientis/02_Pandas_Numpy)   
+3. 🔹 Visualisation des données (Matplotlib, Seaborn) ([03_Visualisation](Python-Challenge-Data-Scientis/03_Visualisation))   
+4. 🔹 Machine Learning (Scikit-learn) ([04_Machine_Learning](Python-Challenge-Data-Scientis/04_Machine_Learning))    
+5. 🔹 Projets pratiques ([05_Projets](Python-Challenge-Data-Scientis/05_Projets))_
 
 Chaque section contient des **explications + du code + des exercices** pour apprendre et pratiquer. 
 
