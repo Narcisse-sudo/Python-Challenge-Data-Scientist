@@ -1,5 +1,5 @@
 
-** Challenge d'Apprentissage Python – De zéro à la Data Science**
+## Challenge d'Apprentissage Python – De zéro à la Data Science
 
 Bienvenue dans mon challenge d'apprentissage Python ! Mon objectif est de maîtriser Python en partant des bases jusqu'à son application en Data Science. 
 
