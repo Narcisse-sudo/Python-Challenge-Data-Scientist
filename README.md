@@ -9,11 +9,11 @@ Bienvenue dans mon challenge d'apprentissage Python !
 
 Chaque section contient des **explications + du code + des exercices** pour apprendre et pratiquer :
 
-- 📂 [01_Bases_Python](challenge_python/01_Bases_Python) — Bases de Python  
-- 📂 [02_Pandas_Numpy](challenge_python/02_Pandas_Numpy) — Manipulation de données (Pandas, NumPy)  
-- 📂 [03_Visualisation](challenge_python/03_Visualisation) — Visualisation des données (Matplotlib, Seaborn)  
-- 📂 [04_Machine_Learning](challenge_python/04_Machine_Learning) — Machine Learning (Scikit-learn)  
-- 📂 [05_Projets](challenge_python/05_Projets) — Projets pratiques
+- 📂 [01_Bases_Python](Python-Challenge-Data-Scientist/01_Bases_Python) — Bases de Python  
+- 📂 [02_Pandas_Numpy](Python-Challenge-Data-Scientist/02_Pandas_Numpy) — Manipulation de données (Pandas, NumPy)  
+- 📂 [03_Visualisation](Python-Challenge-Data-Scientist/03_Visualisation) — Visualisation des données (Matplotlib, Seaborn)  
+- 📂 [04_Machine_Learning](Python-Challenge-Data-Scientist/04_Machine_Learning) — Machine Learning (Scikit-learn)  
+- 📂 [05_Projets](Python-Challenge-Data-Scientist/05_Projets) — Projets pratiques
 
 ---
 
