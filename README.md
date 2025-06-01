@@ -1,9 +1,9 @@
 
-**# 🚀 Challenge d'Apprentissage Python – De zéro à la Data Science**
+** Challenge d'Apprentissage Python – De zéro à la Data Science**
 
 Bienvenue dans mon challenge d'apprentissage Python ! Mon objectif est de maîtriser Python en partant des bases jusqu'à son application en Data Science. 
 
-## 📌 PLAN DU CHALLENGE
+##  PLAN DU CHALLENGE
 
 _1. 🔹 Bases de Python ([01_Bases_Python](01_Bases_Python)/README.md)   
 2. 🔹 Manipulation de données (Pandas, NumPy) ([02_Pandas_Numpy](02_Pandas_Numpy)/README.md)   
@@ -11,9 +11,9 @@ _1. 🔹 Bases de Python ([01_Bases_Python](01_Bases_Python)/README.md)
 4. 🔹 Machine Learning (Scikit-learn) ([04_Machine_Learning](04_Machine_Learning)/README.md)    
 5. 🔹 Projets pratiques ([05_Projets](05_Projets)/README.md)_
 
-Chaque section contient des **explications + du code + des exercices** pour apprendre et pratiquer. 🚀
+Chaque section contient des **explications + du code + des exercices** pour apprendre et pratiquer. 
 
-## 📂 ORGANISATION DU REPO
+##  ORGANISATION DU REPO
 
 📂 **Python-Challenge-Data-Science/**  
 ├── 📜 README.md *(Présentation du projet et plan du challenge)*  
