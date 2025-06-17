@@ -1,0 +1,69 @@
+# === FICHIERS SYSTÈME ===
+.DS_Store
+Thumbs.db
+
+# === ENVIRONNEMENTS VIRTUELS (venv, env classiques) ===
+venv/
+env/
+.venv/
+ENV/
+
+# === ENVIRONNEMENT Poetry ===
+# Dossier par défaut où Poetry crée l'environnement local
+.poetry/
+# Ou si tu utilises Poetry avec environnement local nommé '.venv' (option recommandée)
+.venv/
+
+# === PYTHON COMPILE ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# === JUPYTER NOTEBOOKS ===
+.ipynb_checkpoints/
+
+# === VS CODE ===
+.vscode/
+
+# === LOGS ET TEMPORAIRES ===
+*.log
+*.tmp
+*.swp
+
+# === FICHIERS DONNÉES (adapter selon ton projet) ===
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.parquet
+*.h5
+*.db
+*.sqlite
+*.pkl
+*.joblib
+
+# === MODELS ET SORTIES ===
+*.h5
+*.pt
+*.pth
+*.onnx
+*.model
+*.sav
+
+# === BUILD ET DIST ===
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# === FICHIERS SECRETS ===
+.env
+.env.*
+*.secret
+*.key
+*.pem
+
+# === FICHIERS PERSONNELS ===
+*.bak
+*.orig
+*.old
