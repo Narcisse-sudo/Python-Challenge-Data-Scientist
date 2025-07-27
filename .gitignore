@@ -11,6 +11,9 @@ ENV/
 # === ENVIRONNEMENT Poetry ===
 # Dossier par défaut où Poetry crée l'environnement local
 .poetry/
+*.toml
+*.lock
+
 # Ou si tu utilises Poetry avec environnement local nommé '.venv' (option recommandée)
 .venv/
 
@@ -18,6 +21,8 @@ ENV/
 __pycache__/
 *.py[cod]
 *$py.class
+*.python-version
+
 
 # === JUPYTER NOTEBOOKS ===
 .ipynb_checkpoints/
@@ -41,6 +46,8 @@ __pycache__/
 *.sqlite
 *.pkl
 *.joblib
+*.save
+
 
 # === MODELS ET SORTIES ===
 *.h5
