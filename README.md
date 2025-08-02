@@ -11,7 +11,7 @@ Chaque section contient des **explications + du code + des exercices** pour appr
 
 - 📂 [Python](./Python) — Python  
 - 📂 [Machine_Learning](./Machine_Learning) — Machine Learning 
-- 📂 [Projets](./Projets) — Projets pratiques
+- 📂 [Projet](./Projet) — Projets pratiques
 
 ---
 
